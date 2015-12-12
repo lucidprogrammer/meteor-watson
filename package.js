@@ -2,7 +2,7 @@ Package.describe({
   name:"lucidprogrammer:meteor-watson",
   summary : "IBM Watson for usage from meteor applications.",
   version: "0.1.0",
-  git: "https://github.com/lucidprogrammer/watson.git",
+  git: "https://github.com/lucidprogrammer/meteor-watson.git",
   documentation: "README.md"
 });
 // https://www.npmjs.com/package/watson-developer-cloud
