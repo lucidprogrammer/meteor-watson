@@ -1,0 +1,6 @@
+build:
+  box: lucidprogrammer/meteor-velocity-base
+  steps:
+    - script:
+        name: Run the test suites
+        code: velocity test-packages ./ --ci
