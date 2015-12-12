@@ -1,4 +1,4 @@
-[![wercker status](https://app.wercker.com/status/20f397f1d478891979d4b3acff73ea18/s/master "wercker status")](https://app.wercker.com/project/bykey/20f397f1d478891979d4b3acff73ea18)
+[![wercker status](https://app.wercker.com/status/20f397f1d478891979d4b3acff73ea18/s "wercker status")](https://app.wercker.com/project/bykey/20f397f1d478891979d4b3acff73ea18)
 
 ## Overview
 
